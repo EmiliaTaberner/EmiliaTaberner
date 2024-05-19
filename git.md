@@ -1,6 +1,10 @@
-## Resumen de las órdene git.
+## Resumen de las órdenes git.
+
+<div style="color : #71A3E6;">
 
 ### Configuración de herramientas
+
+</div>
 
 - Para establecer el nombre del usuario que hará los commits
 
@@ -10,9 +14,14 @@ $ git config --global user.name "[name]"
 - Para establecer el email del usuario que hará los commits
 
 ``
-$ git config --global user.email "[email address]" 
+$ git config --global user.email "[email address]"
 ``
+
+<div style="color : #71A3E6;">
+
 ### Creación de repositorios
+
+</div>
 
 - Crear repositorio
 
@@ -24,7 +33,12 @@ $ git init [project-name]
 ``
 $ git clone [url]
 ``
+
+<div style="color : #71A3E6;">
+
 ### Efectuar cambios
+
+</div>
 
 - Toma una instantánea del archivo para preparar la versión
 
@@ -36,7 +50,12 @@ $ git add [file]
 ``
 $ git commit -m "[descriptive message]"
 ``
+
+<div style="color : #71A3E6;">
+
 ### Creación y manipulación de ramas
+
+</div>
 
 - Listar las ramas del repositorio actual
 
@@ -63,14 +82,19 @@ $ git merge [branch]
 ``
 $ git branch -d [branch-name]
 ``
+
+<div style="color : #71A3E6;">
+
 ### Visualización
+
+</div>
 
 - Lista los archivos nuevos o modificados a confirmar
 
 ``
 $ git status
 ``
-- Muestra las diferencias de archivos que no se han enviado al área de espera.
+- Muestra las diferencias de archivos que no se han enviado al área de espera
 
 ``
 $ git diff
