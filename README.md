@@ -37,6 +37,6 @@ String[] technologies = {
     "SQL Oracle"
 };
 ```
-[Archivo git.md](readme/git.md)
+[Archivo git.md](git.md)
 
 
