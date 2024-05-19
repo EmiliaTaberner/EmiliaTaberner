@@ -80,4 +80,3 @@ $ git diff
 ``
 $ git log --graph --all
 ``
-
