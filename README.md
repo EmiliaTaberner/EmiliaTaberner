@@ -14,7 +14,7 @@
 <div style="text-align: justify;">
   <p style = "color: rgb(180, 123, 233, 0.877);">  
      Soy una persona proactiva, con gran capacidad de trabajo en equipo.
-    Aunque he estudiado principalmente en el ámbito de la salud, actualmente he dado un giro de 360º y he descubierto el maravilloso 
+    Aunque he estudiado principalmente en el ámbito de la salud, actualmente he dado un giro de 180º y he descubierto el maravilloso 
     mundo de la programación y estoy estudiando desarrollo de aplicaciones multiplataforma.
   </p>
 </div>
